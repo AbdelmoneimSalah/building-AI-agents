@@ -56,3 +56,42 @@ Each project focuses on solving a real-world problem using **agentic workflows, 
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 🎯 Goal
+
+To build a strong **AI Agents portfolio** that demonstrates:
+
+- Real-world engineering skills
+- System design thinking
+- Multi-agent orchestration
+- Production-ready Python code
+
+---
+
+## ⚡ Tech Stack
+
+- Python
+- OpenAI
+- CrewAI
+- LangGraph
+- AutoGen
+- MCP
+- Ollama (local LLMs)
+
+---
+
+## 📌 Status
+
+🚧 Actively building during the 30-day learning journey.
+
+---
+
+## ⭐ Notes
+
+This repository will be continuously updated with:
+- Code
+- Diagrams
+- Explanations
+- Real project implementations
