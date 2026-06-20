@@ -25,6 +25,17 @@ This repository contains **8 production-style AI Agent projects** built over 30 
 Each project focuses on solving a real-world problem using **agentic workflows, tool use, memory, and multi-agent collaboration**.
 
 ---
+---
+
+## 📊 Learning Progress
+
+```mermaid
+graph TD;
+    A[OpenAI Agents SDK] --> B[CrewAI]
+    B --> C[LangGraph]
+    C --> D[AutoGen]
+    D --> E[MCP]
+    E --> F[Final Project]
 
 ## 🧠 What You Will Learn
 
