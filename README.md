@@ -1,5 +1,12 @@
 # building-AI-agents
 # 🤖 Master AI Agents in 30 Days
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
+![AI Agents](https://img.shields.io/badge/AI-Agents-black?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-red?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-green?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-purple?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-orange?style=for-the-badge)
 
 > A hands-on journey building real-world AI Agents using modern frameworks like OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, and MCP.
 
