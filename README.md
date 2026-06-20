@@ -1,5 +1,5 @@
-# building-AI-agents
 # 🤖 Master AI Agents in 30 Days
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 ![AI Agents](https://img.shields.io/badge/AI-Agents-black?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge)
@@ -22,20 +22,21 @@ This repository contains **8 production-style AI Agent projects** built over 30 
 - AutoGen
 - MCP
 
-Each project focuses on solving a real-world problem using **agentic workflows, tool use, memory, and multi-agent collaboration**.
+Each project focuses on solving real-world problems using agentic workflows, tool use, memory, and multi-agent collaboration.
 
 ---
----
 
+## 📊 Learning Progress
 
-## 🧠 What You Will Learn
-
-- How to design AI Agents from scratch
-- Multi-agent systems and orchestration
-- Tool calling and function execution
-- Memory and state management
-- Agent evaluation loops
-- Real-world agent architectures
+```mermaid
+graph TD
+    A[Agentic Workflow No framework] --> B[OpenAI Agents SDK]
+    B --> C[CrewAI]
+    C --> D[LangGraph]
+    D --> E[AutoGen]
+    E --> F[MCP]
+    F --> G[Final Project]
+```
 
 ---
 
@@ -43,12 +44,13 @@ Each project focuses on solving a real-world problem using **agentic workflows, 
 
 | Section | Framework | Status |
 |----------|-----------|--------|
-| 01 | OpenAI Agents SDK | 🟡 In Progress |
-| 02 | CrewAI | ⏳ Upcoming |
-| 03 | LangGraph | ⏳ Upcoming |
-| 04 | AutoGen | ⏳ Upcoming |
-| 05 | MCP | ⏳ Upcoming |
-| 06 | Final Project | ⏳ Upcoming |
+| 01 | Agentic Workflow No framework | 🟢 Completed |
+| 02 | OpenAI Agents SDK | 🟡 In Progress |
+| 03 | CrewAI | ⏳ Upcoming |
+| 04 | LangGraph | ⏳ Upcoming |
+| 05 | AutoGen | ⏳ Upcoming |
+| 06 | MCP | ⏳ Upcoming |
+| 07 | Final Project | ⏳ Upcoming |
 
 ---
 
@@ -65,6 +67,16 @@ Each project focuses on solving a real-world problem using **agentic workflows, 
 ---
 
 ## 📂 Repository Structure
+
+```
+section-01-Agentic Workflow No framework/
+section-02-openai-agents-sdk/
+section-03-crewai/
+section-04-langgraph/
+section-05-autogen/
+section-06-mcp/
+section-07-final-project/
+```
 
 ---
 
@@ -97,10 +109,13 @@ To build a strong **AI Agents portfolio** that demonstrates:
 
 ---
 
-## ⭐ Notes
+## ⭐ About This Project
 
-This repository will be continuously updated with:
-- Code
-- Diagrams
-- Explanations
-- Real project implementations
+This repository demonstrates my journey in building production-grade AI Agents systems.
+
+It reflects:
+- System design thinking
+- Agent orchestration skills
+- Practical AI engineering experience
+
+🚀 Open for collaboration and opportunities in AI Engineering / Data Engineering.
